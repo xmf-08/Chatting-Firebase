@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "630195485402",
+    "firebase_url": "https://myfirstfirebase-992b5-default-rtdb.firebaseio.com",
+    "project_id": "myfirstfirebase-992b5",
+    "storage_bucket": "myfirstfirebase-992b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630195485402:android:0d94e2aa2d5bd465bb03e3",
+        "android_client_info": {
+          "package_name": "xmf.developer.codingwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630195485402-4cti2qcennev3p1kd82jjk1hnu9v2bgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xmf.developer.codingwithfirebase",
+            "certificate_hash": "be992b2091df2f41a427d4e95609abc15afdd5fc"
+          }
+        },
+        {
+          "client_id": "630195485402-07q2jbitu3prpt73ikqid4ukad0kpevn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUnPE5WOZCZRTnXuyzBcaP1wWSaUhkYis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630195485402-07q2jbitu3prpt73ikqid4ukad0kpevn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630195485402:android:5f8d194e5c89674bbb03e3",
+        "android_client_info": {
+          "package_name": "xmf.developer.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630195485402-07q2jbitu3prpt73ikqid4ukad0kpevn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUnPE5WOZCZRTnXuyzBcaP1wWSaUhkYis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630195485402-07q2jbitu3prpt73ikqid4ukad0kpevn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630195485402:android:1406cd69cd9dfeadbb03e3",
+        "android_client_info": {
+          "package_name": "xmf.developer.telegrampremium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630195485402-07q2jbitu3prpt73ikqid4ukad0kpevn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUnPE5WOZCZRTnXuyzBcaP1wWSaUhkYis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630195485402-07q2jbitu3prpt73ikqid4ukad0kpevn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
